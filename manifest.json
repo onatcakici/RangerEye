@@ -1,0 +1,26 @@
+{
+  "name": "RangerEye - Autonomous Wildfire Detection",
+  "short_name": "RangerEye",
+  "description": "Autonomous drone system for wildfire detection featuring thermal imaging and solar-powered charging. Florida Institute of Technology senior design project.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["education", "science", "technology"],
+  "screenshots": [
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "label": "RangerEye autonomous wildfire detection drone system"
+    }
+  ]
+}
