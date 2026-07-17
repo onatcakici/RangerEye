@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.rangereye.org/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.rangereye.org/og-image.png</image:loc>
+      <image:title>RangerEye Autonomous Wildfire Detection Drone System</image:title>
+      <image:caption>RangerEye autonomous drone over forest with thermal wildfire detection — Florida Institute of Technology senior design project</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/rangereye-cad-render.webp</image:loc>
+      <image:title>RangerEye CAD Render — Hybrid VTOL Drone Design</image:title>
+      <image:caption>CAD render of RangerEye hybrid fixed-wing VTOL autonomous drone for wildfire detection</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Thesis Page -->
+  <url>
+    <loc>https://www.rangereye.org/thesis</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/rangereye-cad-render.webp</image:loc>
+      <image:title>RangerEye Drone — Autonomous Wildfire Detection Research</image:title>
+      <image:caption>RangerEye hybrid VTOL drone developed as part of Florida Institute of Technology senior design capstone 2023-2025</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Ranger Specifications (canonical — /specs redirects here) -->
+  <url>
+    <loc>https://www.rangereye.org/ranger</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/rangereye-prototype.jpg</image:loc>
+      <image:title>RangerEye Working Prototype — Field Ready Autonomous Drone</image:title>
+      <image:caption>RangerEye working prototype during field testing for autonomous wildfire detection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/rangereye-cad-render.webp</image:loc>
+      <image:title>RangerEye CAD Render — Technical Specifications</image:title>
+      <image:caption>CAD render showing RangerEye 6.5kg hybrid VTOL drone with 1.6m wingspan and thermal imaging payload</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Team Page -->
+  <url>
+    <loc>https://www.rangereye.org/team</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/rangereye-team.webp</image:loc>
+      <image:title>RangerEye Team at Melbourne Fire Station — Florida Tech Senior Design</image:title>
+      <image:caption>The RangerEye engineering team at Melbourne Fire Station — Florida Institute of Technology senior design capstone 2023-2025</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/onat-cakici.webp</image:loc>
+      <image:title>Onat Cakici — RangerEye Project Manager and Manufacturing Lead</image:title>
+      <image:caption>Onat D. Cakici, Project Manager and Manufacturing Lead, RangerEye autonomous wildfire detection — Florida Institute of Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/john-munday.webp</image:loc>
+      <image:title>John Munday — RangerEye Hardware Engineer</image:title>
+      <image:caption>John Munday, Hardware Engineer, RangerEye autonomous wildfire detection drone — Florida Institute of Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/mitchell-lacle.webp</image:loc>
+      <image:title>Mitchell Lacle — RangerEye Systems Engineer</image:title>
+      <image:caption>Mitchell Lacle, Systems Engineer, RangerEye autonomous wildfire detection — Florida Institute of Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/manuel-villamor.webp</image:loc>
+      <image:title>Manuel Villamor — RangerEye Software Engineer</image:title>
+      <image:caption>Manuel S. Villamor, Software Engineer, RangerEye autonomous wildfire detection — Florida Institute of Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rangereye.org/images/yuto-imai.webp</image:loc>
+      <image:title>Yuto Imai — RangerEye Avionics Engineer</image:title>
+      <image:caption>Yuto Imai, Avionics Engineer, RangerEye autonomous wildfire detection — Florida Institute of Technology</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Resources Page -->
+  <url>
+    <loc>https://www.rangereye.org/resources</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
